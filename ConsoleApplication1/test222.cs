@@ -8,6 +8,6 @@ namespace ConsoleApplication1
 {
     class test222
     {
-
+        int a = 1;
     }
 }
